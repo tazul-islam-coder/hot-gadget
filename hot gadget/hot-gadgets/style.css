@@ -1,0 +1,74 @@
+body{
+    background: #eeedef;
+}
+.container{
+    margin-bottom: 50px;
+    
+}
+.btn-style{
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 15px;
+}
+p{
+    color: grey;
+ 
+}
+.center{
+    text-align: center;
+    
+}
+.card{
+    box-shadow: 5px 5px 5px gainsboro;
+    border: none;
+    border-radius: 10px;
+    background:white ;
+}
+.cat{
+    text-align: center;
+}
+.cat1{
+    width: 100%;
+}
+.row1{
+    align-items: center;
+    margin-left: 50px;
+}
+.bimg1{
+    box-shadow: 3px 3px 3px grey;
+    background: rgb(253, 253, 253);
+    padding: 15px;
+    border-radius: 10px;
+}
+.bimg2{
+    box-shadow: 3px 3px 3px grey;
+    background: rgb(253, 253, 253);
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.bimg3{
+    box-shadow: 3px 3px 3px grey;
+    background: rgb(253, 253, 253);
+    padding: 15px;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.horirow{
+   border: 3px solid rgb(58, 49, 49);
+   width:100px;
+   margin: auto;
+   margin-top: 15px;
+   border-radius: 50%;
+}
+footer{
+    text-align: center;
+    background: black;
+    color: white;
+    height: 50px;
+    
+}
